@@ -36,7 +36,7 @@ Stash to line 278 (278/278)         VALMIS
 
 SurvivalGuide (0/194)  
 
-Tooltip (60/317)  
+Tooltip (317/317)                   VALMIS
 
 UI (62/1531)  
 
